@@ -52,4 +52,3 @@
 
   [My Readme file page](README.MD)
 
-## Testing
